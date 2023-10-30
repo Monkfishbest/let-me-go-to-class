@@ -2,16 +2,19 @@
 I want to go to class, but I don't want to check every 5 mins, this script will log you in, and then perodically refresh the class page and try and sign up. 
 The program wil terminate when you have signed up. 
 
-## required tech for mac 
+## required tech 
 Python3 
 PiP3 (should come with python 3) 
 brew 
 chrome 
 
 
-## start guide 
+## start guide ( for mac )
+
 to install depdencies 
+
 if you're on Linux/windows/wsl figure that stuff out yourself ;) 
+
 `pip3 install selenium` 
 `brew install webdriver` 
 
